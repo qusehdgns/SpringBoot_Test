@@ -33,6 +33,13 @@
             <artifactId>lombok</artifactId>
             <scope>provided</scope>
         </dependency>
+
+        <!-- https://github.com/qusehdgns/common_maven.git -->
+        <dependency>
+            <groupId>com.common</groupId>
+            <artifactId>common_maven</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
